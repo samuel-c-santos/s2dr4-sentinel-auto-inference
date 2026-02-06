@@ -15,6 +15,9 @@ A presente versão, adaptada por **Samuel Santos (NGEO/IDEFLOR-BIO)**, introduz 
 * Seleção de imagens por critérios de nebulosidade (Cloud Cover) e intervalos temporais dinâmicos.
 * Extração automática de datas para processamento imediato via API Gamma Earth.
 
+## Acessar via Colab notebook
+[Acessar o Notebook de Inferência (S2DR4_Inferencia_V4_2026.ipynb)](./S2DR4_Inferencia_V4_2026.ipynb)
+
 ## Créditos e Propriedade Intelectual
 
 O motor de processamento core e os modelos de inferência são de propriedade exclusiva da **Gamma Earth Sarl (2026)**. O uso deste software é destinado a fins de teste, avaliação de desempenho e validação técnica.
