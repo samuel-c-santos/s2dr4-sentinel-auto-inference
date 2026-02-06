@@ -1,5 +1,8 @@
 # S2DR4 - Super-resolução Automatizada para Sentinel-2
 
+<img width="1189" height="597" alt="download" src="https://github.com/user-attachments/assets/445fbfa6-4441-4753-8308-d506000dd609" />
+
+
 ## Descrição do Projeto
 
 Este repositório contém uma implementação adaptada do módulo **S2DR4 (Sentinel-2 Deep Resolution 4.0)**, desenvolvido pela Gamma Earth. A aplicação utiliza algoritmos de Deep Learning para realizar a super-resolução de imagem única (Single Image Super-Resolution - SISR) das 10 bandas multiespectrais do satélite Sentinel-2, elevando a resolução espacial nativa (10m e 20m) para **1 metro por pixel**.
