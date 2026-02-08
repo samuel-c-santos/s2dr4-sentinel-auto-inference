@@ -26,13 +26,14 @@ O motor de processamento core e os modelos de inferência são de propriedade ex
 
 Para fins de documentação técnica ou publicações acadêmicas, deve-se observar a seguinte estrutura de citação:
 
-**Referência Original:**
+## Referências e Créditos
 
-> AKHTMAN, Yosef. **S2DR4: Effective 10-Band 10x Single Image Super-Resolution for Sentinel-2**. Gamma Earth, 2026. Disponível em: [https://medium.com/@ya_71389/c71a601a2253](https://medium.com/@ya_71389/c71a601a2253).
+**Modelo Original:**
+AKHTMAN, Yosef. **S2DR4: Effective 10-Band 10x Single Image Super-Resolution for Sentinel-2**. Gamma Earth, 2026. Disponível em: https://medium.com/@ya_71389/c71a601a2253.
 
-**Citação da Adaptação (Apud):**
+**Implementação e Automação:**
+SANTOS, Samuel. **S2DR4_Inferencia_V4_2026.ipynb**. Script de automação e integração com Google Earth Engine. Belém: NGEO/IDEFLOR-BIO, 2026. Disponível em: https://github.com/samuel-c-santos/s2dr4-sentinel-auto-inference.
 
-> AKHTMAN, Yosef. S2DR4: Effective 10-Band 10x Single Image Super-Resolution for Sentinel-2. 2026. *apud* SANTOS, Samuel. **S2DR4_Inferencia_Automatizada_Sentinel2_NGEO.ipynb**: Implementação para automação via Google Earth Engine. Belém: NGEO/IDEFLOR-BIO, 2026.
 
 ## Licença e Termos de Uso
 
